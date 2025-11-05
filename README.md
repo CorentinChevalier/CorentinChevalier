@@ -4,8 +4,6 @@ I'm a french fullstack developer, but I have a strong preference for frontend !
 
 Welcome to my personal lab ! Enjoy your journey among my repositories 🚀
 
-🌱 Currently learning Svelte
-
 <!--
 **CorentinChevalier/CorentinChevalier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
